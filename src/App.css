@@ -1,0 +1,11 @@
+/*  */
+
+.cards__container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  /* gap: 10px; */
+}
+.heading {
+  text-align: center;
+}
